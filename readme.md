@@ -7,7 +7,7 @@
 * React vs Angular vs Vue: Weihang Xiao
 
 ## React Introduction: Xueman Liang
-* 10 minutes
+* 15 minutes
 * What is React
 * How is React different from other frameworks?
 * How is React so \*\* popular
@@ -25,6 +25,7 @@
 * HOC
 * Virtual DOM
 * Data Flow
+* functional vs class component
 
 ## React vs Angular vs Vue: Weihang Xiao
 * 15 minutes
